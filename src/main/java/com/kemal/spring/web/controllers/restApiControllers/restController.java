@@ -12,9 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * Created by Keno&Kemo on 16.12.2017..
- */
 
 @RestController
 public class restController {
