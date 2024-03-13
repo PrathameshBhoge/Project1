@@ -14,9 +14,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Created by Keno&Kemo on 04.11.2017..
- */
 @Component
 public class DataLoader implements ApplicationListener<ContextRefreshedEvent> {
     private boolean alreadySetup = false;
