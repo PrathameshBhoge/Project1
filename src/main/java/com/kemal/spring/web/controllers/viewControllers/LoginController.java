@@ -5,9 +5,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-/**
- * Created by Keno&Kemo on 17.11.2017..
- */
+
 
 @Controller
 @RequestMapping("")
