@@ -7,9 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.context.request.WebRequest;
 
-/**
- * Created by Keno&Kemo on 30.09.2017..
- */
+
 
 @Controller
 @RequestMapping("")
