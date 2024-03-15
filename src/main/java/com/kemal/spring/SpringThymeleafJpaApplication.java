@@ -9,6 +9,4 @@ public class SpringThymeleafJpaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringThymeleafJpaApplication.class, args);
 	}
-
-
 }
