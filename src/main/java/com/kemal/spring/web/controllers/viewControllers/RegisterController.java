@@ -15,9 +15,7 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
 
-/**
- * Created by Keno&Kemo on 17.11.2017..
- */
+
 @Controller
 @RequestMapping("")
 public class RegisterController {
