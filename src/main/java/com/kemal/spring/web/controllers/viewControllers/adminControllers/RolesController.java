@@ -14,9 +14,7 @@ import javax.validation.Valid;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * Created by Keno&Kemo on 20.11.2017..
- */
+
 @Controller
 @RequestMapping("/adminPage")
 public class RolesController {

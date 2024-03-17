@@ -9,9 +9,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * Created by Keno&Kemo on 04.11.2017..
- */
+
 @Service
 public class RoleService {
     private RoleRepository roleRepository;
