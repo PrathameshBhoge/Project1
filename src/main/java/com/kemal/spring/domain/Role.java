@@ -7,9 +7,7 @@ import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by Keno&Kemo on 04.11.2017..
- */
+
 @Entity
 public class Role {
     @Id
